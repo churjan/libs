@@ -9,7 +9,7 @@
 ## Vue插件
 
 **轮播图**  
-[vue-awesome-swiper](https://github.com/vuejs/awesome-vue) - [Swiper4](http://www.swiper.com.cn/) component for Vue, support pc and mobile, SPA and SSR. 
-**PDF**
+[vue-awesome-swiper](https://github.com/vuejs/awesome-vue) - [Swiper4](http://www.swiper.com.cn/) component for Vue, support pc and mobile, SPA and SSR.   
+**PDF**  
 [vue-pdf](https://github.com/FranckFreiburger/vue-pdf) - vue.js pdf viewer  
 
